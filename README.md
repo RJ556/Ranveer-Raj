@@ -30,7 +30,7 @@ Analysis of customer data using SQL queries, Python processing, and Power BI das
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ranveer-raj)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ranveer@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](ranveerraj832@gmail.com)
 
 ---
 
