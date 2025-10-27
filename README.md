@@ -1,5 +1,5 @@
 <h1 align="center">Ranveer Raj</h1>
-<h3 align="center">Data Analytics | NIT Raipur '25 | Business Intelligence & Analytical Solutions | Engineer</h3>
+<h3 align="center">Data Analytics | NIT Raipur '27 | Business Intelligence & Analytical Solutions | Engineer</h3>
 
 ---
 
