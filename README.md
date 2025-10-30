@@ -35,7 +35,7 @@ End-to-end analytics of ride and customer data using Python, MySQL, and Power BI
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ranveer-raj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ranveer-raj-760137360)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](ranveerraj832@gmail.com)
 
 ---
