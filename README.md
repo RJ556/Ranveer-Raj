@@ -31,7 +31,7 @@ A comprehensive data analytics project focused on uncovering consumer purchase p
 ### Ola_Rides_Analysis Project
 **Technologies** : Python , MYSQL , Power BI , Excel  
 End-to-end analytics of ride and customer data using Python, MySQL, and Power BI to optimize operations, identify usage trends, cancellation reasons & patterns and enhance business decision-making through interactive dashboards and EDA.  
-  [📘 Project Report (PDF)](URL)
+  [📘 Project Report (PDF)](https://github.com/RJ556/OLA_RIDES_ANALYSIS/blob/bebaa6ea540433f3801b275848a61d989d172c75/OLA_%20RIDES_ANALYSIS%20PROJECT%20REPORT.pdf)
 
 ## 📫 Connect
 
