@@ -30,7 +30,7 @@ Analysis of customer data using SQL queries, Python processing, and Power BI das
 
 ### Ola_Rides_Analysis Project
 **Technologies** : Python , MYSQL , Power BI , Excel
-Analysis of customer data using python (pandas ) , python processing , SQL database and Power BI dashboards.
+Analysis of customer data using python (pandas ) , python processing , SQL database and Power BI dashboards.  
   [📘 Project Report (PDF)](URL)
 
 ## 📫 Connect
