@@ -26,7 +26,7 @@ Engineering student at **NIT Raipur** with strong passion for data analytics and
 ### Customer Behavior Analysis
 **Technologies**: Python, MySQL, Power BI  
 A comprehensive data analytics project focused on uncovering consumer purchase patterns through Python (Pandas), SQL, and Power BI. It highlights insights into buying trends, customer segmentation, and data-driven business strategies.  
-  [📘 Project Report (PDF)](URL)
+  [📘 Project Report (PDF)](https://github.com/RJ556/Customer_behavior_analysis/blob/2af6c6c762d472468713ee20ae027c667cf222c9/Customer_Shopping_Behavior_Analysis.pdf)
 
 ### Ola_Rides_Analysis Project
 **Technologies** : Python , MYSQL , Power BI , Excel  
