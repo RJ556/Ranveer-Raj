@@ -25,13 +25,13 @@ Engineering student at **NIT Raipur** with strong passion for data analytics and
 
 ### Customer Behavior Analysis
 **Technologies**: Python, MySQL, Power BI  
-Analysis of customer data using SQL queries, Python processing, and Power BI dashboards.
-[📘 Project Report (PDF)](URL)
+Analysis of customer data using SQL queries, Python processing, and Power BI dashboards.  
+  [📘 Project Report (PDF)](URL)
 
 ### Ola_Rides_Analysis Project
 **Technologies** : Python , MYSQL , Power BI , Excel
 Analysis of customer data using python (pandas ) , python processing , SQL database and Power BI dashboards.
-[📘 Project Report (PDF)](URL)
+  [📘 Project Report (PDF)](URL)
 
 ## 📫 Connect
 
